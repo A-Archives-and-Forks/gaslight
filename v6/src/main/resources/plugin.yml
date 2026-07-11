@@ -1,0 +1,6 @@
+name: gaslight
+main: gg.nodus.gaslight.GaslightPlugin
+version: 6
+commands:
+  gaslight:
+    usage: "/gaslight [word] [message to send]"

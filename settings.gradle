@@ -9,3 +9,5 @@ pluginManagement {
 }
 
 include 'v5'
+
+include 'v6'
